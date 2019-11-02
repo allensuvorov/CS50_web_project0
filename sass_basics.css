@@ -1,0 +1,20 @@
+/* variable "color"*/
+h2 {
+  /* % means a template style */
+  font-size: 18px;
+  padding: 20px;
+}
+
+ol {
+  /* here we created nested styling for list items in ordered lists only*/
+}
+ol li {
+  color: blue;
+}
+
+h2 {
+  /* @extend means inherit the style from the heading2 template*/
+  background-color: red;
+}
+
+/*# sourceMappingURL=sass_basics.css.map */

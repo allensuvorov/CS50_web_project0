@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Responsive Heading</title>
+        <style>
+            @media (min-width: 701px) {
+                h1::before {
+                    content: "Long Heading for Screens above 700 Pixels in Width"
+                }
+            }
+            @media (max-width: 700px) {
+                h1::before {
+                    content: "Short Heading Screens upto 700px"
+                }
+            }
+        </style>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Screen width auto-adjust mode-->
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="basic_html.html">Basic HTML</a></li>
+                <li><a href="custom_styles.html">Custom Styles</a></li>
+                <li><a href="smaller_screen.html">Smaller Screen</a></li>
+                <li><a href="responsive_heading.html">Responsive Heading</a></li>
+                <li><a href="bootstrap4.html">Bootsrap4</a></li>
+                <li><a href="sass_basics.html">Sass Basics</a></li>
+            </ul>
+        </nav> 
+        <h1></h1>
+        <h2>Ordered List</h2> <!--That's an ordered list-->
+        <ol>
+            <li>Ordered List Item</li>
+            <li>Ordered List Item</li>
+            <li>Ordered List Item</li>
+        </ol>
+        <h2>Table</h2> <!--That's a table-->
+        <table>
+            <thead>
+                <tr>
+                    <th>HTML Tag</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="tag">&lt;ol&gt;</td>
+                    <td>Ordered List Tag</td>
+                </tr>
+                <tr>
+                    <td class="tag">&lt;table&gt;</td>
+                    <td>Table Tag</td>
+                </tr>
+                <tr>
+                    <td class="tag">&lt;img&gt;</td>
+                    <td>Image Tag</td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 id="image_heading">Image</h2> <!--That is an image-->
+        <img src="matrix.gif" alt="Picture" height="200">
+    </body>
+</html>
