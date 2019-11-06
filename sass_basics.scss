@@ -3,11 +3,10 @@ $color: blue; /* variable "color"*/
 %heading2 { /* % means a template style */
     font-size: 18px;
     padding: 20px;
-
-
 }
-ol { /* here we created nested styling for list items in ordered lists only*/
-    li {
+
+ol { 
+    li { /* here we created nested styling for list items in ordered lists only*/
     color: $color;
     }
 }
