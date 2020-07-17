@@ -1,6 +1,7 @@
 # Project0 - "Website"
 
-### Video overview of the completed project: https://youtu.be/WXJIIrGvsb8
+- Video overview of the completed project: https://youtu.be/WXJIIrGvsb8
+- Course: CS50's Web Programming with Python and JavaScript
 
 ### Project0 showcases basic HTML and CSS tools using a number of web pages. Here are the files and descriptions of what is in them.
 
