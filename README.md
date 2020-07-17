@@ -1,12 +1,14 @@
 This README.md file tells about the idea and all files in Project0.
 
+Video overview of the completed project: of the https://youtu.be/WXJIIrGvsb8
+
 Project0 showcases basic HTML and CSS tools using a number of web pages. Here are the files and descriptions of what is in them.
 
 1. index.html - is the home page. It has only a navigation menu with links to other pages.
 2. basic_html.html - is the first page with some content. It features basic html tags: ordered list, table, image.
 3. custom_styles.html - has the content of the first page, but with some styles saved in styles.css.
 4. styles.css - is the styles file that has 5 different CSS selector types, 5 different CSS properties, #id selector and .class selector.
-5. smaller_screen.html - has basicely the same content, but with <meta name="viewport"...> that adjusts the page to the size of the screen on the user. (check it out on a phone size screen)
+5. smaller_screen.html - has basically the same content, but with <meta name="viewport"...> that adjusts the page to the size of the screen on the user. (check it out on a phone size screen)
 6. responsive_heading.html showcases a heading that changes depending on screen width.
 7. bootstrap4.html showcases bootrstrap styling for the entire page, and Alerts component for the list items, and for bootstrap grid items as well.
 8. sass_basics.scss contains SASS code for generating sass_basics.css styling file with list item colored blue with nested structure and h2 elements inheriting styling templated in heading2. And sass_basics.html shows that.
