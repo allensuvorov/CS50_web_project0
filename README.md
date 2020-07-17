@@ -1,4 +1,4 @@
-# This README.md file tells about the idea and all files in Project0.
+# Project0 - "Website"
 
 ### Video overview of the completed project: https://youtu.be/WXJIIrGvsb8
 
