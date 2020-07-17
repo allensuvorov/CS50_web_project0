@@ -2,7 +2,7 @@
 
 ### Video overview of the completed project: https://youtu.be/WXJIIrGvsb8
 
-Project0 showcases basic HTML and CSS tools using a number of web pages. Here are the files and descriptions of what is in them.
+### Project0 showcases basic HTML and CSS tools using a number of web pages. Here are the files and descriptions of what is in them.
 
 1. index.html - is the home page. It has only a navigation menu with links to other pages.
 2. basic_html.html - is the first page with some content. It features basic html tags: ordered list, table, image.
@@ -13,7 +13,7 @@ Project0 showcases basic HTML and CSS tools using a number of web pages. Here ar
 7. bootstrap4.html showcases bootrstrap styling for the entire page, and Alerts component for the list items, and for bootstrap grid items as well.
 8. sass_basics.scss contains SASS code for generating sass_basics.css styling file with list item colored blue with nested structure and h2 elements inheriting styling templated in heading2. And sass_basics.html shows that.
 
-Requirements
+### Requirements:
 
 Alright, now it’s time to make your website your own. Design a personal webpage about yourself, one of your interests, or any other topic of your choice. The subject matter, look and feel, and design of the site are entirely up to you, subject to the following requirements:
 
@@ -24,5 +24,4 @@ Alright, now it’s time to make your website your own. Design a personal webpag
 5. Your stylesheet(s) must include at least one mobile-responsive @media query, such that something about the styling changes for smaller screens.
 6. You must use Bootstrap 4 on your website, taking advantage of at least one Bootstrap component, and using at least two Bootstrap columns for layout purposes using Bootstrap’s grid model.
 7. Your stylesheets must use at least one SCSS variable, at least one example of SCSS nesting, and at least one use of SCSS inheritance.
---- DONE till this line ---
 8. In README.md, include a short writeup describing your project, what’s contained in each file, and (optionally) any other additional information the staff should know about your project.
