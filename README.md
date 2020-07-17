@@ -1,4 +1,4 @@
-# Project0 - "Website"
+# Project0 - "Website" (HTML, CSS, Bootstrap4, Sass)
 
 - Video overview of the completed project: https://youtu.be/WXJIIrGvsb8
 - Course: CS50's Web Programming with Python and JavaScript
