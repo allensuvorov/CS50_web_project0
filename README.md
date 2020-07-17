@@ -1,6 +1,6 @@
 # This README.md file tells about the idea and all files in Project0.
 
-## Video overview of the completed project: https://youtu.be/WXJIIrGvsb8
+### Video overview of the completed project: https://youtu.be/WXJIIrGvsb8
 
 Project0 showcases basic HTML and CSS tools using a number of web pages. Here are the files and descriptions of what is in them.
 
