@@ -1,5 +1,5 @@
 # Project0 - "Website" (HTML, CSS, Bootstrap4, Sass)
-- Overview: Showcase of basic HTML, CSS, Bootstrap4, Sass on a 5 page website.
+- Description: Showcase of basic HTML, CSS, Bootstrap4, Sass on a 5 page website.
 - Video overview of the completed project: https://youtu.be/WXJIIrGvsb8
 - Course: CS50's Web Programming with Python and JavaScript
 
