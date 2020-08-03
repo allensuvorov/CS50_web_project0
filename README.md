@@ -2,6 +2,7 @@
 - Description: Showcase of basic HTML, CSS, Bootstrap4, Sass on a 5 page website.
 - Video overview of the completed project: https://youtu.be/WXJIIrGvsb8
 - Course: CS50's Web Programming with Python and JavaScript
+- Project specification: https://docs.cs50.net/ocw/web/projects/0/project0.html
 
 ### Project0 showcases basic HTML and CSS tools using a number of web pages. Here are the files and descriptions of what is in them.
 
